@@ -36,7 +36,7 @@
 ---
 
 
-### Como executar o projeto
+### 📍 Como executar o projeto
 
 Antes de começar, você vai precisar ter instalado em sua máquina a linguagem Dart e o framework Flutter (recomendo que seja na versão 10.0.19045.3930).
 
