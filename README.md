@@ -55,4 +55,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Feito com ❤️ Danilo Taveira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danilo-taveira/)
+Feito por Danilo Taveira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danilo-taveira/)
